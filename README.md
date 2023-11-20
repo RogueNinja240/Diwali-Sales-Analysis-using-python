@@ -6,4 +6,3 @@ Analyze Diwali sales data by using python perform EDA(Exploratory Data Analysis)
 * Used Jupyter Notebook
 * Python Libraries like numpy,pandas,seaborn n matplotlib for data visualization
 
-  Schema is also attached
